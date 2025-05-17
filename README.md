@@ -1,7 +1,7 @@
 # UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations
 
 <!-- ### [Imitating Human Videos via Cross-Embodiment Skill Representations](https://uniskill.github.io)    -->
-[Hanjung Kim*](https://kimhanjung.github.io/), [Jaehyun Kang*](https://www.linkedin.com/in/jaehyun-kang-904aaa1ba/), [Hyolim Kang](https://sites.google.com/yonsei.ac.kr/hyolims), [Meedeum Cho](https://chomeed.github.io), [Seon Joo Kim](https://www.ciplab.kr), [Youngwoon Lee](https://youngwoon.github.io/)
+[Hanjung Kim*](https://kimhanjung.github.io/), [Jaehyun Kang*](https://kang-jaehyun.github.io/), [Hyolim Kang](https://sites.google.com/yonsei.ac.kr/hyolims), [Meedeum Cho](https://chomeed.github.io), [Seon Joo Kim](https://www.ciplab.kr), [Youngwoon Lee](https://youngwoon.github.io/)
 
 [[`arXiv`](https://arxiv.org/abs/2505.08787)][[`Project`](https://kimhanjung.github.io/UniSkill/)][[`BibTeX`](#citing-uniskill)]
 
