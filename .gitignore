@@ -166,3 +166,5 @@ controller/snapshots/
 
 # Checkpoints
 ckpts/
+
+lavila/*
